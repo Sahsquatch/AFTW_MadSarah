@@ -1,0 +1,22 @@
+<item>
+	<title>Sound of the Subway</title>
+	<link>
+		http://podcasat.com/sound....mp4
+	</link>
+	<pubDate>Sat, 27 Oct 2018 16:00:00 EST</pubDate>
+	<description>
+		We measure the sound pressure level of different New York Subway stations, examining the health risks of loud sounds. 
+	</description>
+	<enclosure url="http://same line.com/mp4 or AAC or something" length="123456 or length" type="audio/mpeg"/>
+	<guid>
+		http.same link
+	</guid>
+	<itunes:duration>05.00</itunes:duration>
+	<itunes:summary>
+		We measure the sound pressure level of different New York Subway stations, examining the health risks of loud sounds. 
+	</itunes:summary>
+	<itunes:keywords>
+		subway, hearing, loss, train, station, sound, pressure, level, loudness
+	</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+</item>
